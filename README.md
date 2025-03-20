@@ -37,7 +37,7 @@ View Post History & Analytics.
 📡 Hosting: Render
 🔗 APIs: LinkedIn, Facebook, Twitter, Instagram
 
-source code (Backend):https://github.com/iamalokkumar/marketing-backend
-source code (Frontend):https://github.com/iamalokkumar/marketing-backend.git
+source code (Backend):https://github.com/iamalokkumar/marketing-backend.git
+source code (Frontend):https://github.com/iamalokkumar/marketing-frontend.git
 front-end live url : https://marketing-frontend-pnnd.onrender.com
 
