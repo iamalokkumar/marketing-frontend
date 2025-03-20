@@ -38,5 +38,6 @@ View Post History & Analytics.
 🔗 APIs: LinkedIn, Facebook, Twitter, Instagram
 
 source code (Backend):https://github.com/iamalokkumar/marketing-backend
-source code (Frontend):
+source code (Frontend):https://github.com/iamalokkumar/marketing-backend.git
+front-end live url : https://marketing-frontend-pnnd.onrender.com
 
